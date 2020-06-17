@@ -22,7 +22,7 @@ public class Complaints implements Peculiar {
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private Long id;
 
-	@Column(unique = true)
+	@Column(unique = true, length = 120)
 	private String name;
 
 	@ManyToMany(fetch = FetchType.EAGER, cascade = CascadeType.MERGE, mappedBy = "complaints")
