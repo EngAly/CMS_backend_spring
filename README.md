@@ -2,7 +2,7 @@
 => A clinic management software or a practice management software provides a suite of functionalities that makes it easy to manage a clinic. A medical practice management system is used to manage the patients
 
 ## Portfolio
-https://photos.google.com/album/AF1QipMlO_Qv77o9C0QkcQdf9yFByCR1-Nta35uJzFT7
+https://photos.google.com/album/AF1QipOEdT5edEuXteRmh8Ur3tUuJQOzfp3Z3SSFlOyg
 
 ### Clinic Management System Features
 * Serve more patients every day with better workflows and increased productivity. Flexible.   
